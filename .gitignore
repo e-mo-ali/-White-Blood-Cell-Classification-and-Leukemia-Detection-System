@@ -1,0 +1,5 @@
+.weights/
+.output_Lukemia/
+.Output_WBC/
+.Models/__pycache__
+.Models/venv
